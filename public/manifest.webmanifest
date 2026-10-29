@@ -1,0 +1,11 @@
+{
+  "name": "Crypto Break-Even Price Calculator | Recover your cost after fees",
+  "short_name": "Break-Even Calculator",
+  "description": "Find the exact selling price per coin that recovers your full crypto investment after buying and selling fees. Free, private, runs in your browser.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f2f3fb",
+  "theme_color": "#4f46e5",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

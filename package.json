@@ -1,0 +1,36 @@
+{
+  "name": "crypto-break-even-calculator",
+  "private": true,
+  "version": "crypto-break-even-calculator0",
+  "description": "Find the exact selling price per coin that recovers your full crypto investment after buying and selling fees. Free, private, runs in your browser.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "keywords": [
+    "crypto",
+    "break-even",
+    "calculator",
+    "trading-fees",
+    "react",
+    "vite"
+  ],
+  "license": "MIT"
+}
